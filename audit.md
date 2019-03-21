@@ -36,3 +36,8 @@ Jquery est également utilisé pour faire un loader, on pourrait éviter de char
 ### SEO 91/100
 
 **Document does not have a meta description**: Le navigateur ne peut pas présenter une brève description du contenu de la page
+
+
+### Test de vulnérabilité BWAPP
+
+1-
